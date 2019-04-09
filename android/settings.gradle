@@ -1,0 +1,3 @@
+rootProject.name = 'rydeum_test_2101'
+
+include ':app'
